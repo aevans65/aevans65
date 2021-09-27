@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aevans65
+- 👋 Hi, I’m Aliyah
 - 👀 I’m interested in machine learning and game development
 - 🌱 I’m currently learning Javascript and how to build small apps.
 - 💞️ I’m looking to collaborate on ??
